@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==3.1.9
+Django==3.1.12
 django-common-helpers==0.9.2
 django-compat==1.0.15
 django-cron==0.5.1
